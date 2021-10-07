@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid black;
+  }
+td {text-align: center;}
+th {background-color: #D6EEEE;}
+td {background-color: #bbffbe;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
